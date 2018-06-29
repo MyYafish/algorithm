@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wupeng/Desktop/algorithm/LongestSubstringWithout RepeatingCharacters/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+sys/param.h
+-
+memory.h
+-
+
