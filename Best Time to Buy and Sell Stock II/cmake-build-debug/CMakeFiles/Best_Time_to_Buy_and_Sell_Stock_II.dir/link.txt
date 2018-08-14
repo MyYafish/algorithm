@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Best_Time_to_Buy_and_Sell_Stock_II.dir/main.c.o  -o Best_Time_to_Buy_and_Sell_Stock_II 

@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Convert_Sorted_Array_to_Binary_Search_Tree.dir/main.c.o  -o Convert_Sorted_Array_to_Binary_Search_Tree 
